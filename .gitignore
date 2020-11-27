@@ -1,0 +1,11 @@
+# Archivos generados por MacOS
+.DS_Store
+/docs/.DS_Store
+/docs/img/.DS_Store
+
+# Dependecy - Directorios de dependecias
+node_modules/
+.vercel
+
+# Local Netlify folder
+.netlify
